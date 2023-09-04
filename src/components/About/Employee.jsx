@@ -1,5 +1,5 @@
-import manPicture from "../../images/man.jpg";
-import womanPicture from "../../images/woman.jpg";
+import manPicture from "../../images/pracownik-1.png";
+import womanPicture from "../../images/pracownik-2.jpg";
 
 const Employee = ({ id, firstName, lastName, position, description }) => {
   return (
