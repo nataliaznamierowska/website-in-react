@@ -1,6 +1,7 @@
 import firstWomanPicture from "../../images/pracownik-1.png";
 import womanPicture from "../../images/pracownik-2.jpg";
 
+
 const Employee = ({ id, firstName, lastName, position, description }) => {
   return (
     <div className="employee">
