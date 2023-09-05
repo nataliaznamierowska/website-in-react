@@ -1,5 +1,6 @@
 import employees from "../../data/Employees";
 import Employee from "./Employee";
+import styles from "./styles/About.css";
 
 const About = () => {
   return (
